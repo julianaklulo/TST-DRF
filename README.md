@@ -16,7 +16,7 @@ Criar o virtualenv e instalar as dependências:
 ```bash
 virtualenv venv
 source venv/bin/activate
-(venv) pip install -r requirements
+(venv) pip install -r requirements.txt
 ```
 
 Rodar as migrações e criar o super usuário:
